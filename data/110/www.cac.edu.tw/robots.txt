@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /Camp*
+Disallow: /caac9*
+Disallow: /caac1*
+Disallow: /star9*
+Disallow: /star1*
+Disallow: /esun
+Disallow: /ftp
+Disallow: /siev
+Disallow: /sig
+Disallow: /*test
+Disallow: /apply1*

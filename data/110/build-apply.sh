@@ -1,10 +1,10 @@
 #!/bin/bash
 
-path="www.cac.edu.tw/apply110/system/110ColQrytk4p_forapply_os92k5w"
+path="www.cac.edu.tw/apply110/system/110_aColQry4qy_forapply_o5wp6ju"
 
 rm "$path/ShowSchGsd.php"*
 
-wget -r -nc -R pdf --header "User-Agent: Sean" "https://$path/TotalGsdShow.htm"
+wget -r -nc -R pdf --header "User-Agent: Sky" "https://$path/TotalGsdShow.htm"
 
 rm new-apply
 
